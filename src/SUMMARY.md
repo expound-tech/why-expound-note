@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Expound Note](./chapter_1.md)
+- [开发须知](./devops.md)
